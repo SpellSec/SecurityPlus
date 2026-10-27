@@ -1,0 +1,39 @@
+# CH. 2: CS Threat Landscape
+
+---
+
+## 1. Threat Classification
+
+Threats can be categorized based on several key attributes:
+* **Internal vs. External:** Inside the security perimeter (employees, contractors) vs. outside actors.
+* **Level of Sophistication / Capability:** Technical prowess and ability to exploit zero-days or evade detection.
+* **Resources / Funding:** Financial backing ranging from zero budget to nation-state level.
+* **Intent / Motivation:** Ideological, financial gain, corporate espionage, sabotage, or state-sponsored war.
+
+---
+
+## 2. Threat Actor Profiles
+
+| Threat Actor | Skill & Capability | Resources & Funding | Primary Motivation | Characteristics & Examples |
+|---|---|---|---|---|
+| **Unskilled Attackers** | Low | Low | Thrill, notoriety, chaos | High-volume, indiscriminate attacks; rely on purchased or pre-packaged tools (Script Kiddies). |
+| **Hacktivists** | Variable | Low to Moderate | Ideological / "Greater Good" | Risk-tolerant, highly determined, politically or socially driven. *Example: Leaks and website defacement.* |
+| **Organized Crime** | Moderate to High | High | Illegal financial gain | Highly disciplined, financially driven operations targeting businesses, infrastructure, and consumers. |
+| **Nation-State (APTs)** | Very High | Extremely High (Government) | Espionage, warfare, geopolitical advantage | Advanced Persistent Threats (APTs); exploit Zero-Day vulnerabilities. *Example: Stuxnet (targeting Iranian enrichment networks).* |
+| **Insider Threats** | Variable | Typically Low (but privileged) | Revenge, financial gain, negligence | Current/former employees or contractors with authorized access; best prevented via behavioral assessments. |
+| **Competitors** | Moderate to High | High (Corporate) | Corporate espionage, market dominance | Targets customer data, intellectual property, and product roadmaps via dark web brokers or insiders. |
+
+### Organized Crime Focus Areas
+* **Cyber-dependent Crime:** Ransomware, unauthorized data exfiltration, DDoS, website defacement, and critical infrastructure attacks.
+* **Online Fraud:** Credit card fraud and Business Email Compromise (BEC).
+* **Exploitation & Material:** Child sexual abuse material (CSAM) and online solicitation.
+* **Dark Web Markets:** Illicit marketplaces for credentials, malware, and stolen data.
+* **Enablers:** Social engineering campaigns, money mule networks, and money laundering via cryptocurrencies.
+
+> **Shadow IT:** Software, hardware, or cloud services (e.g., personal Dropbox accounts) adopted without explicit IT approval, creating unmonitored attack paths and data leakage risks.
+
+---
+
+## 3. Hacker Classifications ("The Hats")
+
+* **Authorized (White Hat
